@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Worker
+build_property.ProjectDir = C:\Users\admin\Desktop\demo_ci_cd-main\TP\worker\src\Worker\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
